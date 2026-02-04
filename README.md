@@ -56,3 +56,9 @@ The goal of this project is to practice business-focused data analysis and dashb
 
 ## Preview
 Dashboard and forecast screenshots are included in this repository.
+### Sales Dashboard
+![Sales Dashboard](Dashboard.png)
+
+### Sales Forecast
+![Sales Forecast](Sales Forecast.png)
+
